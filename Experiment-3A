@@ -1,0 +1,35 @@
+// NAME - Pranjal Panwar
+// PRN - 23070123164
+// EXPERIMENT -3  
+
+#include<iostream> 
+using namespace std; 
+int main()  
+{ 
+int a, b, sum, diff, prod, div, mod, c, d=50, x, y, z; 
+cout<<"Enter a number: ";                               
+cin>>a; 
+cout<<"Enter another number: ";                         
+cin>>b; 
+sum=a+b;   
+cout<<"Sum is: "<<sum<<"\n";                           
+diff=a-b;   
+cout<<"Difference is: "<<diff<<"\n";                    
+prod=a*b;   
+cout<<"Product of the numbers is: "<<prod<<"\n";     
+div=a/b;   
+cout<<"Quotient is: "<<div<<"\n";                      
+mod=a%b;  
+cout<<"Modulus of the numbers is: "<<mod<<"\n";         
+cout<<"Enter any number: ";                             
+cin>>c; 
+cout<<"New increment value of c is:  "<<++c<<"\n";     
+cout<<"New decrement value of c is: "<<-- c<<"\n";      
+cout<<"If the numbers are equal."<<(x=a==b)<<"\n";      
+cout<<"a is greater than b."<<(y=a>b)<<"\n";            
+cout<<"a is smaller than b."<<(z=a<b)<<"\n";           
+cout<<"Logical AND operator: "<<(a&&b)<<"\n";          
+cout<<"Logical OR operator: "<<(a||b)<<"\n";            
+cout<<"Logical NOT operator: "<<!(a>b)<<"\n";          
+return 0; 
+}
