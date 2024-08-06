@@ -11,8 +11,8 @@ They are classified into 6 types: 1. Arithematic Operators (+, -, *, /, ++, --)
 6. Bitwise Operators (&, |, ^, <<, >>, ~)
 Code:
 ```
-// NAME - SHIVENDRA DWIVEDI
-// PRN - 23070123122
+//Pranjal Panwar
+//23070123164
 // EXPERIMENT -3  
 
 #include<iostream> 
