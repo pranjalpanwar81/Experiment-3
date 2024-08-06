@@ -1,4 +1,4 @@
-#To study and implement Operators in C++
+# To study and implement Operators in C++
 Aim -> To study and implement Operators in C++
 
 Theory -> Opeartors in C++ are the symbols that are used two perform some mathematocalor logical operations on the variables. They are classified into 6 types: 1. Arithematic Operators (+, -, *, /, ++, --) 2. Assignment Operators (=, +=, -=, *=, /=) 3. Logical Operators (&&, ||, !) 4. Relational Operators (==, >, >=, <=, <, !=) 5. Ternary or Conditional Operators 6. Bitwise Operators (&, |, ^, <<, >>, ~) Code:
